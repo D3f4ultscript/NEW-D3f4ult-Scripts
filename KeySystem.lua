@@ -13,7 +13,7 @@ local config = {
     getKeyButtonText = "Get Key",
     checkKeyButtonText = "Check Key",
     loadingDuration = 3,
-    validKey = "dsgijkou4zt89234ndv",
+    validKey = "basdf823riz2ef68325rthuef",
     discordLink = "https://discord.gg/2ynN9zcVFk",
     -- Work.Ink integration
     useWorkInk = true,
